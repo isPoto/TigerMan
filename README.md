@@ -3,7 +3,7 @@
 
 ![TigerMan](https://user-images.githubusercontent.com/59009389/215585878-ba03512b-4c00-4e8c-87e6-9a62afcd0a1c.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ojbwgS3IwB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 虎形让你在电脑上享受到舒服、顺手的查字体验  
 置顶在屏幕上，小巧不占视野，你可以移动虎形到你想要的位置，甚至挂在角落    
@@ -11,6 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/59009389/215586601-afba6f17-2b93-4e1d-91d3-a31ea3e4abaf.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojbwgS3IwB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a href="https://github.com/isPoto/TigerMan/releases/download/25/TigerManByPotoVersion25.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
 
