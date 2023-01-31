@@ -46,5 +46,9 @@
 你可以向你在用的知名杀毒软件厂商手动递交人工审核申请。  
 免费的最昂贵，如果你实在不放心，你可以向 Poto 赞赏，付费则心安。天下熙熙，皆为利来；天下攘攘，皆为利往。  
 
+[Follow Poto Channel](https://t.me/PotoChannel)  
+[Join Poto Group](https://t.me/PotoGroup)  
+定制软件找 [Poto](https://t.me/isPoto)  
+
 ![ReceiveMoney](https://user-images.githubusercontent.com/59009389/215666438-ab18e2c0-e6ab-465b-ae3f-22c50784f417.png)
 
