@@ -13,14 +13,18 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojbwgS3IwB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://github.com/isPoto/TigerMan/releases/download/25/TigerManByPotoVersion25.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
+<a href="https://github.com/isPoto/TigerMan/releases/download/26/TigerManByPotoVersion26.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
 
 **用法**  
 
 解压 TigerManByPotoVersion**.zip 到任意新的空白文件夹  
 运行 虎形.exe  
+运行后可直接输入汉字，不用去点输入框再打字。优雅的体验，Poto 予您！
 在输入框中输入你要查询的一个汉字，敲击回车或点击右侧的虎纹查询。目前只支持一个汉字  
 会在虎形界面的下方出现新的、独立的查询结果界面。你可以看到原字、打法、拆解和拼音。你可以复制其中你感兴趣的内容  
+
+查过一次后的再次查询，鼠标点击输入框，将自动清空上次输入过的汉字，方便再次输入这次要查的字
+
 
 ![screenshots](https://user-images.githubusercontent.com/59009389/215695815-3ec6e9fd-a854-49d8-bcd6-7c124c44b5e5.gif)
 
